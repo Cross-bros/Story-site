@@ -1,0 +1,113 @@
+nav
+{
+background-color: black;
+padding: 20px;
+width: 1500;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li
+{
+background-color: rgb(11, 11, 179);
+display: inline;
+padding: 15px;
+}
+
+nav ul li a
+{
+color: white;
+text-decoration: none;
+}
+
+nav ul li:hover 
+{
+background-color: aqua;
+}
+
+header
+{
+background-color: black
+}
+
+.logo
+{
+text-align: center;
+padding: 20px;
+}
+
+html{
+    background-color: white
+}
+
+main{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family:Cambria;
+}
+
+h1 
+{
+color: white;
+text-align: center;
+font-family:Cambria;
+}
+
+h2
+{
+color: white;
+text-align: center;
+font-family:Cambria;
+}
+
+h3
+{
+    text-align: center;
+    color: white;
+    font-family:Cambria;
+}
+
+.pfp
+{
+text-align: center;
+}
+
+
+.one
+{
+text-align: center;
+}
+
+.two
+{
+text-align: center;
+font-size: large;
+font-family: Cambria;
+}
+
+.three
+{
+    text-align: center;
+    font-size: large;
+font-family: Cambria;
+}
+
+a
+{
+color: aqua;
+}
+
+p
+{
+    font-family:Cambria;
+}
+
+.greencliffs
+{
+    background-color: rgb(9, 121, 175);
+}
